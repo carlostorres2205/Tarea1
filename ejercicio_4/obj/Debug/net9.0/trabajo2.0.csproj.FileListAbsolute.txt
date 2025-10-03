@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Documentos\prograG5\trabajo2.0\ejercicio_4\bin\Debug\net9.0\trabajo2.0.exe
+C:\Users\Usuario\OneDrive\Documentos\prograG5\trabajo2.0\ejercicio_4\bin\Debug\net9.0\trabajo2.0.deps.json
+C:\Users\Usuario\OneDrive\Documentos\prograG5\trabajo2.0\ejercicio_4\bin\Debug\net9.0\trabajo2.0.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\prograG5\trabajo2.0\ejercicio_4\bin\Debug\net9.0\trabajo2.0.dll
+C:\Users\Usuario\OneDrive\Documentos\prograG5\trabajo2.0\ejercicio_4\bin\Debug\net9.0\trabajo2.0.pdb
+C:\Users\Usuario\OneDrive\Documentos\prograG5\trabajo2.0\ejercicio_4\obj\Debug\net9.0\trabajo2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\prograG5\trabajo2.0\ejercicio_4\obj\Debug\net9.0\trabajo2.0.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\prograG5\trabajo2.0\ejercicio_4\obj\Debug\net9.0\trabajo2.0.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\prograG5\trabajo2.0\ejercicio_4\obj\Debug\net9.0\trabajo2.0.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\prograG5\trabajo2.0\ejercicio_4\obj\Debug\net9.0\trabajo2.0.dll
+C:\Users\Usuario\OneDrive\Documentos\prograG5\trabajo2.0\ejercicio_4\obj\Debug\net9.0\refint\trabajo2.0.dll
+C:\Users\Usuario\OneDrive\Documentos\prograG5\trabajo2.0\ejercicio_4\obj\Debug\net9.0\trabajo2.0.pdb
+C:\Users\Usuario\OneDrive\Documentos\prograG5\trabajo2.0\ejercicio_4\obj\Debug\net9.0\trabajo2.0.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\prograG5\trabajo2.0\ejercicio_4\obj\Debug\net9.0\ref\trabajo2.0.dll
