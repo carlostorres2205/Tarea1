@@ -84,11 +84,11 @@ namespace GestionTurnosClinica
 
         // --- AYUDAS---
 
-        static int LeerEdadValida(string prompt)
+        static int LeerEdadValida(string validar)
         {
             while (true)
             {
-                Console.Write(prompt);
+                Console.Write(validar);
                 string? entrada = Console.ReadLine();
 
                 if (int.TryParse(entrada, out int edad) && edad >= 0 && edad <= 120)
