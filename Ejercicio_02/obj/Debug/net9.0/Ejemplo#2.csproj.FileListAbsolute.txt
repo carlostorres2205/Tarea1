@@ -1,0 +1,15 @@
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Prácticas\P_30_09\Ejemplo#2\bin\Debug\net9.0\Ejemplo#2.exe
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Prácticas\P_30_09\Ejemplo#2\bin\Debug\net9.0\Ejemplo#2.deps.json
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Prácticas\P_30_09\Ejemplo#2\bin\Debug\net9.0\Ejemplo#2.runtimeconfig.json
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Prácticas\P_30_09\Ejemplo#2\bin\Debug\net9.0\Ejemplo#2.dll
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Prácticas\P_30_09\Ejemplo#2\bin\Debug\net9.0\Ejemplo#2.pdb
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Prácticas\P_30_09\Ejemplo#2\obj\Debug\net9.0\Ejemplo#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Prácticas\P_30_09\Ejemplo#2\obj\Debug\net9.0\Ejemplo#2.AssemblyInfoInputs.cache
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Prácticas\P_30_09\Ejemplo#2\obj\Debug\net9.0\Ejemplo#2.AssemblyInfo.cs
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Prácticas\P_30_09\Ejemplo#2\obj\Debug\net9.0\Ejemplo#2.csproj.CoreCompileInputs.cache
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Prácticas\P_30_09\Ejemplo#2\obj\Debug\net9.0\Ejemplo#2.sourcelink.json
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Prácticas\P_30_09\Ejemplo#2\obj\Debug\net9.0\Ejemplo#2.dll
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Prácticas\P_30_09\Ejemplo#2\obj\Debug\net9.0\refint\Ejemplo#2.dll
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Prácticas\P_30_09\Ejemplo#2\obj\Debug\net9.0\Ejemplo#2.pdb
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Prácticas\P_30_09\Ejemplo#2\obj\Debug\net9.0\Ejemplo#2.genruntimeconfig.cache
+C:\Users\adolf\OneDrive\Documentos\Programación_Estructurada\Prácticas\P_30_09\Ejemplo#2\obj\Debug\net9.0\ref\Ejemplo#2.dll
