@@ -55,7 +55,9 @@ class Programa
         }
 
         // Mostrar resultados
+        Console.WriteLine(new string('-', 40));
         Console.WriteLine("Resultados de la votación:");
+        Console.WriteLine(new string('-', 40));
         for (int i = 0; i < 5; i++)
         {
             Console.WriteLine($"Candidato {i + 1}: {conteoVotos[i]} votos ({porcentajes[i]:F2}%)");
@@ -68,7 +70,7 @@ class Programa
             {
                 if (conteoVotos[i] == votosMaximos)
                 {
-                    Console.WriteLine($"Candidato {i + 1} con {votosMaximos} votos");
+                    Console.WriteLine($"Candidato {i + 1} con {votosMaximos} votos\n");
                 }
             }
         }
